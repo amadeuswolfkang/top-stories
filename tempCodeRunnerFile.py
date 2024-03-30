@@ -1,0 +1,1 @@
+article_element = article.find_element(By.CSS_SELECTOR, '.page-content__row')
